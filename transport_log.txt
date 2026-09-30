@@ -1,0 +1,15 @@
+Vehicle added: bus101
+Route added: bhopal -> indore
+Route added: bhopal -> indore
+Schedule added for date: 2026-09-30
+Booking for vanshika of 2 seats
+Vehicle added: bus102
+Vehicle added: bus103
+Vehicle added: bus104
+Route added: bhopal -> varanasi
+Route added: bhopal -> jabalpur
+Route added: indore -> ujjain
+Schedule added for date: 2026-11-30
+Schedule added for date: 2026-10-25
+Schedule added for date: 2026-12-12
+Vehicle added: bus105

@@ -1,0 +1,8 @@
+TRANSPORT BOOKING REPORT
+=======================
+
+Booking ID: 1
+Passenger: vanshika
+Seats: 2
+Schedule ID: 1
+--------------------------
