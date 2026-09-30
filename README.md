@@ -52,5 +52,5 @@ A main loop is used to present a menu to the user and handle user input/output.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/vanshika-code07/transport-booking-system.git
+https://github.com/vanshika-code07/Transport-booking-System.git
 ```
